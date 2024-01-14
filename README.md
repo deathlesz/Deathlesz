@@ -1,16 +1,36 @@
-### Hi there 👋
+<!--
+About Me
+-->
+<h3>
+  About me:
+</h3>
+  <img align="right" src="https://lanyard.cnrad.dev/api/479188998716129301?hideStatus=true&idleMessage=Sleeping..." alt="Discord Status">
+  <img align="right" src="https://skillicons.dev/icons?i=rust,python&perline=1">
+
+  * I'm a high-school student
+  * Interested in:
+    * Low-level programming
+    * Back-end development
+    * Reverse engineering
+    * and _much_ more...
+  * I just love coding silly stuff
 
 <!--
-**Deathlesz/Deathlesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Github Stats
 -->
+<h3>
+  GitHub Stats:
+</h3>
+<div align="left">
+ <img src="https://github-readme-stats.vercel.app/api?username=Deathlesz&show_icons=true&theme=dracula" alt="Github Stats">
+</div>
+
+<!--
+Contact Me
+-->
+<h3>
+  Contact Me:
+</h3>
+<div align="left">
+  You can contact me through Discord if you want something.
+</div>
